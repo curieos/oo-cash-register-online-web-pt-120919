@@ -8,6 +8,6 @@ class CashRegister
   end
   
   def add_item(item, cost)
-    
+    total += cost
   end
 end
