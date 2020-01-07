@@ -1,4 +1,4 @@
 
-class Cash_Register
+class CashRegister
   
 end
